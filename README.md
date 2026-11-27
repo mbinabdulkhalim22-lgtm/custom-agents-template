@@ -1,4 +1,4 @@
-# Enterprise agent governance template
+  # Enterprise agent governance template
 
 This template repository makes it easy for enterprise owners to get started with and establish settings for their agents by providing:
 * The basic file structure necessary for custom agents
